@@ -8,6 +8,10 @@ Prevents specific login error messages to be displayed when a user enters an inc
 1. Upload the plugin files (unzipped) to the `/wp-content/plugins` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the "Plugins" screen in WordPress
 
+#### Multisite Activation ####
+
+To activate on all sites in your multisite, just network activate the plugin from the Network Admin > Plugins screen.
+
 ### WP CLI Installation ###
 1. `$ wp plugin install --activate https://github.com/UCF/Secure-Login-Messages/archive/master.zip`.  See [WP-CLI Docs](http://wp-cli.org/commands/plugin/install/) for more command options.
 
