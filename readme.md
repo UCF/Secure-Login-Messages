@@ -23,3 +23,7 @@ N/A
 ## Installation Requirements ##
 
 None
+
+## Credits ##
+
+Credit to [Paul Gilzow](https://github.com/gilzow/) whose [presentation](https://github.com/gilzow/access-denied) I took the primary source code for this plugin from.
